@@ -3,7 +3,7 @@
 package miniredis
 
 import (
-	"github.com/s-barr-fetch/server"
+	"github.com/s-barr-fetch/miniredis/server"
 )
 
 // commandsTransaction handles MULTI &c.

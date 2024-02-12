@@ -13,7 +13,7 @@ import (
 	lua "github.com/yuin/gopher-lua"
 	"github.com/yuin/gopher-lua/parse"
 
-	"github.com/s-barr-fetch/server"
+	"github.com/s-barr-fetch/miniredis/server"
 )
 
 func commandsScripting(m *Miniredis) {

@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/s-barr-fetch/server"
+	"github.com/s-barr-fetch/miniredis/server"
 )
 
 type leftright int

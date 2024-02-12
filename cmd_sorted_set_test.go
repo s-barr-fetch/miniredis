@@ -4,7 +4,7 @@ import (
 	"math"
 	"testing"
 
-	"github.com/s-barr-fetch/proto"
+	"github.com/s-barr-fetch/miniredis/proto"
 )
 
 // Test ZADD / ZCARD / ZRANK / ZREVRANK.

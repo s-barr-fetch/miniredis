@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/s-barr-fetch/server"
+	"github.com/s-barr-fetch/miniredis/server"
 )
 
 // commandsPubsub handles all PUB/SUB operations.

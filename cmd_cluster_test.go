@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/s-barr-fetch/proto"
+	"github.com/s-barr-fetch/miniredis/proto"
 )
 
 // Test CLUSTER *.

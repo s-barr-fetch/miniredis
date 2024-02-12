@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/s-barr-fetch/proto"
-	"github.com/s-barr-fetch/server"
+	"github.com/s-barr-fetch/miniredis/proto"
+	"github.com/s-barr-fetch/miniredis/server"
 )
 
 // Test starting/stopping a server

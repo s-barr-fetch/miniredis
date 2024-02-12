@@ -1,7 +1,7 @@
 package hyperloglog
 
 import (
-	"github.com/s-barr-fetch/metro"
+	"github.com/s-barr-fetch/miniredis/metro"
 	"math"
 	"math/bits"
 )

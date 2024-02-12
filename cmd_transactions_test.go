@@ -3,7 +3,7 @@ package miniredis
 import (
 	"testing"
 
-	"github.com/s-barr-fetch/proto"
+	"github.com/s-barr-fetch/miniredis/proto"
 )
 
 func TestMulti(t *testing.T) {

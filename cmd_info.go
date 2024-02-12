@@ -3,7 +3,7 @@ package miniredis
 import (
 	"fmt"
 
-	"github.com/s-barr-fetch/server"
+	"github.com/s-barr-fetch/miniredis/server"
 )
 
 // Command 'INFO' from https://redis.io/commands/info/

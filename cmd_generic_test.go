@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/s-barr-fetch/proto"
+	"github.com/s-barr-fetch/miniredis/proto"
 )
 
 // Test EXPIRE. Keys with an expiration are called volatile in Redis parlance.

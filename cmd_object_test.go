@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/s-barr-fetch/proto"
+	"github.com/s-barr-fetch/miniredis/proto"
 )
 
 // Test OBJECT IDLETIME.

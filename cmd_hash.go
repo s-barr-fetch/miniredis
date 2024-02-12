@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/s-barr-fetch/server"
+	"github.com/s-barr-fetch/miniredis/server"
 )
 
 // commandsHash handles all hash value operations.

@@ -1,4 +1,4 @@
-module github.com/s-barr-fetch
+module github.com/s-barr-fetch/miniredis
 
 require (
 	github.com/alicebob/gopher-json v0.0.0-20200520072559-a9ecdc9d1d3a

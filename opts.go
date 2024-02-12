@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/s-barr-fetch/server"
+	"github.com/s-barr-fetch/miniredis/server"
 )
 
 // optInt parses an int option in a command.

@@ -5,7 +5,7 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/s-barr-fetch/server"
+	"github.com/s-barr-fetch/miniredis/server"
 )
 
 // PubsubMessage is what gets broadcasted over pubsub channels.

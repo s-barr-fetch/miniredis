@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/s-barr-fetch/server"
+	"github.com/s-barr-fetch/miniredis/server"
 )
 
 func TestRedis(t *testing.T) {

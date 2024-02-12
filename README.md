@@ -18,7 +18,7 @@ There are no dependencies on external binaries, so you can easily integrate it i
 
 Be sure to import v2:
 ```
-import "github.com/s-barr-fetch"
+import "github.com/s-barr-fetch/miniredis"
 ```
 
 ## Commands
@@ -257,7 +257,7 @@ Commands which use randomness are: RANDOMKEY, SPOP, and SRANDMEMBER.
 
 import (
     ...
-    "github.com/s-barr-fetch"
+    "github.com/s-barr-fetch/miniredis"
     ...
 )
 
@@ -335,4 +335,4 @@ If you want to test Redis Sentinel have a look at [minisentinel](https://github.
 
 A changelog is kept at [CHANGELOG.md](https://github.com/alicebob/miniredis/blob/master/CHANGELOG.md).
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/s-barr-fetch.svg)](https://pkg.go.dev/github.com/s-barr-fetch)
+[![Go Reference](https://pkg.go.dev/badge/github.com/s-barr-fetch/miniredis.svg)](https://pkg.go.dev/github.com/s-barr-fetch/miniredis)

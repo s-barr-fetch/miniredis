@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/s-barr-fetch/proto"
+	"github.com/s-barr-fetch/miniredis/proto"
 )
 
 // execute command in a go routine. Used to test blocking commands.

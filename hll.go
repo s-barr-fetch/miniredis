@@ -1,7 +1,7 @@
 package miniredis
 
 import (
-	"github.com/s-barr-fetch/hyperloglog"
+	"github.com/s-barr-fetch/miniredis/hyperloglog"
 )
 
 type hll struct {

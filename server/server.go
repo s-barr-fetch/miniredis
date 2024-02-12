@@ -9,7 +9,7 @@ import (
 	"sync"
 	"unicode"
 
-	"github.com/s-barr-fetch/fpconv"
+	"github.com/s-barr-fetch/miniredis/fpconv"
 )
 
 func errUnknownCommand(cmd string, args []string) string {

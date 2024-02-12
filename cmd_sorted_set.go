@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/s-barr-fetch/server"
+	"github.com/s-barr-fetch/miniredis/server"
 )
 
 // commandsSortedSet handles all sorted set operations.

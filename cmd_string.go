@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/s-barr-fetch/server"
+	"github.com/s-barr-fetch/miniredis/server"
 )
 
 // commandsString handles all string value operations.
