@@ -1,6 +1,6 @@
 package miniredis
 
-import "github.com/alicebob/miniredis/v2/server"
+import "github.com/s-barr-fetch/server"
 
 // commandsHll handles all hll related operations.
 func commandsHll(m *Miniredis) {

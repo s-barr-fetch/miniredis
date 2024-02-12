@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/alicebob/miniredis/v2/server"
+	"github.com/s-barr-fetch/server"
 )
 
 // commandsCluster handles some cluster operations.

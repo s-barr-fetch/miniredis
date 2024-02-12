@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/alicebob/miniredis/v2/server"
+	"github.com/s-barr-fetch/server"
 )
 
 // commandsGeneric handles EXPIRE, TTL, PERSIST, &c.

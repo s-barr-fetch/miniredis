@@ -2,7 +2,7 @@
 
 package miniredis
 
-import "github.com/alicebob/miniredis/v2/server"
+import "github.com/s-barr-fetch/server"
 
 func (m *Miniredis) cmdCommand(c *server.Peer, cmd string, args []string) {
 	// Got from redis 5.0.7 with

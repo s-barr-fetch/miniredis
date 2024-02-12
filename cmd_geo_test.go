@@ -3,7 +3,7 @@ package miniredis
 import (
 	"testing"
 
-	"github.com/alicebob/miniredis/v2/proto"
+	"github.com/s-barr-fetch/proto"
 )
 
 func TestGeoadd(t *testing.T) {

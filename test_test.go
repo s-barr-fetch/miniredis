@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/alicebob/miniredis/v2/proto"
+	"github.com/s-barr-fetch/proto"
 )
 
 // assert fails the test if the condition is false.

@@ -8,7 +8,7 @@ import (
 
 	lua "github.com/yuin/gopher-lua"
 
-	"github.com/alicebob/miniredis/v2/server"
+	"github.com/s-barr-fetch/server"
 )
 
 var luaRedisConstants = map[string]lua.LValue{

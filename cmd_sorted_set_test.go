@@ -4,7 +4,7 @@ import (
 	"math"
 	"testing"
 
-	"github.com/alicebob/miniredis/v2/proto"
+	"github.com/s-barr-fetch/proto"
 )
 
 // Test ZADD / ZCARD / ZRANK / ZREVRANK.

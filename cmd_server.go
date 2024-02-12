@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/alicebob/miniredis/v2/server"
-	"github.com/alicebob/miniredis/v2/size"
+	"github.com/s-barr-fetch/server"
+	"github.com/s-barr-fetch/size"
 )
 
 func commandsServer(m *Miniredis) {

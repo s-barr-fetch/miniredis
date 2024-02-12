@@ -2,7 +2,7 @@
 // There are no dependencies on system binaries, and every server you start
 // will be empty.
 //
-// import "github.com/alicebob/miniredis/v2"
+// import "github.com/s-barr-fetch"
 //
 // Start a server with `s := miniredis.RunT(t)`, it'll be shutdown via a t.Cleanup().
 // Or do everything manual: `s, err := miniredis.Run(); defer s.Close()`
@@ -25,7 +25,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/alicebob/miniredis/v2/server"
+	"github.com/s-barr-fetch/server"
 )
 
 var DumpMaxLineLen = 60

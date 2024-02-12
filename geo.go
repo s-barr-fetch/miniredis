@@ -3,7 +3,7 @@ package miniredis
 import (
 	"math"
 
-	"github.com/alicebob/miniredis/v2/geohash"
+	"github.com/s-barr-fetch/geohash"
 )
 
 func toGeohash(long, lat float64) uint64 {

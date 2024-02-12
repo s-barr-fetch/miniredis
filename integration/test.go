@@ -11,8 +11,8 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/alicebob/miniredis/v2"
-	"github.com/alicebob/miniredis/v2/proto"
+	"github.com/s-barr-fetch"
+	"github.com/s-barr-fetch/proto"
 )
 
 func skip(t testing.TB) {
